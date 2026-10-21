@@ -1,0 +1,8 @@
+<?php
+/**
+ * Copy this file to config.php (already git-ignored) and fill in your
+ * real key. config.php is never committed.
+ */
+return [
+    'deepseek_api_key' => '',
+];
