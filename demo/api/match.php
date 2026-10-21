@@ -8,7 +8,7 @@
 
 header('Content-Type: application/json; charset=utf-8');
 
-require __DIR__ . '/../../shared/Matcher.php';
+require __DIR__ . '/../shared/Matcher.php';
 
 $ingredientsCatalog = require __DIR__ . '/../data/ingredients.php';
 $recipes = require __DIR__ . '/../data/recipes.php';
